@@ -1,6 +1,9 @@
-echo "# Unfollow-not-Followback" >> README.md
-git init
-git add README.md
-git commit -m "first commit"
-git remote add origin https://github.com/aqshalzuhdi/Unfollow-not-Followback.git
-git push -u origin master
+# Instagram Bot Tools
+
+# install
+
+* git clone https://github.com/ccocot/Instagram-Tools.git
+* cd Unfollow-not-Followback
+* npm install
+
+Thank's To https://github.com/huttarichard/instagram-private-api For API
